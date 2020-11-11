@@ -5,7 +5,7 @@ import styles from './index.less'
 
 const App = () => {
     return <div className={styles.page}>
-        <span className={styles.title}>HelloWorld</span>
+        <span className={styles.title}>Hello React, Webpack</span>
         <Tip />
     </div>
 };
