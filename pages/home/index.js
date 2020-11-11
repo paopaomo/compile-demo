@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Tip from "./components/Tip/Tip";
+import Tip from "../../components/Tip/Tip";
 import styles from './index.less'
 
 const App = () => {
